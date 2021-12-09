@@ -1,0 +1,21 @@
+Welcome to Rubber Ducks vs. Peeps Game
+The Debugging Rubber Ducks are tracking down the evil Snow Stealing Peeps living in a 20-room cave system.
+The Snow Stealing Peeps are taking all the snow and magically creating snow beasties.
+
+Using their cunning skill and logic, the rubber ducks are going to hunt down the snow stealing peeps. 
+The peeps cannot hide their sugary stench smell or muffle their squishy marshmallow footsteps.
+
+This text-based adventure game will have three rounds. 
+In round 1 and round 3, the user will be playing the role of the rubber ducks. 
+In round 2, the tables will be turned, and the user will be play as the Snow Stealer Peeps.
+
+For each round, you will be moving through the cave system trying to find your enemy.
+You can move to any of the ajointing rooms. You can also view the instructors or exit the game.
+
+You will have a warning that you will be approaching your enemy if you hear footsteps or smell sugar.
+
+If you think you have located the enemy, you can use your candy cane arrow (round 1) or toothpick sword (round 2 or 3) to capture the enemy and win around.
+
+Hazards:
+Taffy - the rubber ducks or peeps can get 'stuck' on the taffy and this will end the game/round.
+Vultures - these carry ducks or peeps to a random location within the cave system
